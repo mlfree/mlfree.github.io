@@ -1,4 +1,10 @@
-<h1> INTRO TO IT - ASSESSMENT 1 <h1/> 
+<!DOCTYPE html>
+<html>
+  <head>
+     <meta charset="utf-8">
+    <title> INTRO TO IT - ASSESSMENT 1 </title>
+  </head>
+  <body>
 
 Personal Information
 Name: Madisyn Freeman
@@ -7,7 +13,7 @@ Email: s3793987@student.rmit.edu.au
 
 My name is Madisyn and I’m a 22-year-old student from Melbourne. I am currently in my final year of a Bachelor of Arts Degree at Monash University, in which I am majoring in Psychology and minoring in Criminology and Human Rights. In addition, I have begun studying Information Technology online this year with RMIT. I also work part-time at a call centre, and I compete in ballroom and Latin dancing competitions regularly. 
 
-Interest in IT
+### Interest in IT
 I have only very recently developed an interest in IT. I think, being a woman, IT never really presented itself as an option during school and so I never even considered as a possible career path I might enjoy. It’s only really been in the last 6 months that I have considered IT as an option. This has come about due to a couple of reasons. Firstly, I’m nearing the end of my Bachelor of Arts degree and so I have been considering different options of where to head next and what I really want to choose as a career.  In addition, one of my closest friends began a cyber security course last year and she has shown me some of the projects that she has completed and the assignments she has done. It really amazed me how my friend had built from scratch entire websites and programs. I think that is what interests me most about IT – the idea that I can build something exciting and useful all just with a computer and I think doing so would be very rewarding and give me a great sense of achievement. I really have no prior IT experience at all, other than of course being a user of the IT that is all around us everyday. 
 
 I chose to come to RMIT so that I could get a taste of what a career in RMIT might be like. I am studying both the Introduction to IT and Introduction to Programming subjects this study period to explore my new-found interest in IT and see whether it is something I should pursue after I complete my Bachelor of Arts this year. I also chose RMIT because the flexibility of the online course is ideal for fitting my IT studies in with my other studies, as well as with my work commitments and spending time with friends and family. 
@@ -94,4 +100,5 @@ MIT App inventor
 Skills Required
 
 Outcome
-
+</body>
+</html>
